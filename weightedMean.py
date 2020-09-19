@@ -1,3 +1,5 @@
+#https://www.hackerrank.com/challenges/s10-weighted-mean/problem
+
 num = int(input())
 my_list=map(int,input().split())
 my_list=list(my_list)
