@@ -1,3 +1,5 @@
+#https://www.hackerrank.com/challenges/s10-standard-deviation/problem
+
 from math import sqrt
 num = int(input())
 my_lst=map(int,input().split())
